@@ -59,7 +59,6 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zdotdev&theme=darcula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zdotdev&theme=darcula)
-  <br/>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zdotdev&theme=darcula)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zdotdev&theme=darcula)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zdotdev&theme=darcula&utcOffset=8)
