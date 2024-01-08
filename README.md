@@ -67,9 +67,10 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Chat?' /></a>
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Chat?' /></a>
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Chat?' /></a>
+<a href='https://www.instagram.com/zedsilog/' target='_blank'><img height='64' style='border:0px;height:64px;' src='instagram.png' border='0' alt='Chat?' /></a>
+<a href='https://www.facebook.com/zedsilog' target='_blank'><img height='64' style='border:0px;height:64px;' src='facebook.png' border='0' alt='Chat?' /></a>
+<a href='https://twitter.com/itsyokuzan' target='_blank'><img height='64' style='border:0px;height:64px;' src='twitter.png' border='0' alt='Chat?' /></a>
+<a href='paypal.me/zdotdev' target='_blank'><img height='64' style='border:0px;height:64px;' src='paypal.png' border='0' alt='Buy me a coffee?' /></a>
 </div>
 
 <br/>
