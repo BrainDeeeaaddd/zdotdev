@@ -67,7 +67,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='[https://www.flaticon.com/free-icon/paypal_888870?term=paypal+logo&page=1&position=2&origin=tag&related_id=888870)https://www.flaticon.com/free-icon/paypal_888870?term=paypal+logo&page=1&position=2&origin=tag&related_id=888870]' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Chat?' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Chat?' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Chat?' /></a>
 </div>
 
 <br/>
