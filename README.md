@@ -39,9 +39,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,figma,ae,anaconda,androidstudio,au,bash,discord,eclipse,figma" />
     <img src="https://skillicons.dev/icons?i=github,gmail,gradel,ai,instagram,linux,neovim,ps,pr,replit" /><br>
-    <img src="https://skillicons.dev/icons?i=twitter,unity,xd,visualstudio,vscode,bootstrap,c,cs,css,express,html" /><br>
-    <img src="https://skillicons.dev/icons?i=java,js,mongodb,mysql,nodejs,php,postman,powershell,py,react" /><br>
-    <img src="https://skillicons.dev/icons?i=svelte,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=twitter,unity,xd,visualstudio,vscode,bootstrap,c,cs,css,express" /><br>
+    <img src="https://skillicons.dev/icons?i=html,java,js,mongodb,mysql,nodejs,php,postman,powershell,py" /><br>
+    <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite" />
 </div>
 
 <br/>
