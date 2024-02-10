@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a React.JS Projects**
+ 🔭 I’m currently working on **a React.JS and Svelte Projects**
  
- 🌱 I’m currently learning **Java, JavaScript, MongoDB**
+ 🌱 I’m currently learning **Java, JavaScript, Python**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/zdotdev/zdotdev/issues)**
 
