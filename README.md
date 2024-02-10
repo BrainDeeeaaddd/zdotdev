@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java, JavaScript, Python**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/zdotdev/zdotdev/issues)**
+💬 Ask me about **Node.js, React, Svelte, and Python... or anything [here](https://github.com/zdotdev/zdotdev/issues)**
 
 ⚡ **"Death is nothing, but to live defeated and inglorious is to die daily."** — Napoleon Bonaparte
 
